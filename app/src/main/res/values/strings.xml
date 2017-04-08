@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LQRAudioRecord</string>
+    <string name="voice_rec">手指上滑，取消发送</string>
+    <string name="voice_cancel">松开手指，取消发送</string>
+    <string name="voice_short">录音时间太短</string>
+    <string name="voice_failure">录音失败！</string>
+</resources>
