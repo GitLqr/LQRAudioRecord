@@ -158,3 +158,5 @@
 #### 2)结束播放：
 
 	AudioPlayManager.getInstance().stopPlay();
+
+![](https://cdn.jsdelivr.net/gh/FullStackAction/PicBed@resource/image/FSA_QR_bottom.png)
